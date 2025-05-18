@@ -31,7 +31,7 @@ where it decides, ultimately, which move to make.
 
 This move is what the algorithm concluded was the best move
 to make at this point in time. The more iterations you
-let it think, the better a movie will be returned.
+let it think, the better a move will be returned.
 
 Board is an interface that must be implemented if you want
 to make the algorithm play your game. Move is another 
